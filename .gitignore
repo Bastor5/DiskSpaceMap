@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+# saved snapshot reports contain real folder and file names
+disk-space-map.html

@@ -46,3 +46,7 @@ To scan other drives, edit `DRIVES` near the top of `server.py`.
 - Under very heavy disk activity Windows can drop some change notifications. The page shows a warning when that happens, and **Rescan everything** fixes it.
 - File types and the by-year chart come from the last full scan. Everything else updates live.
 - Memory use is roughly 100 MB per million files indexed.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
